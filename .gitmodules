@@ -1,0 +1,3 @@
+[submodule "cdsp"]
+	path = cdsp
+	url = https://github.com/chrisdonahue/cdsp
